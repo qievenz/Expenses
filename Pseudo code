@@ -1,0 +1,29 @@
+1. iniciar programa
+2. procesar
+3. cerrar.
+
+
+1. iniciar programa
+  1.1 abrir archivo de entrada y salida.
+  1.2 iniciar variables globales
+
+
+2. procesar
+  2.1 mostrar menu:
+        1-ingresar gastos
+        2-calcular promedio del mes
+        3-salir
+    2.1.1 ingresar gastos
+      ingresar dato hasta que sea distinto de float.
+      volver al menu.
+    2.2.2 calcular promedio
+      calcular el promedio de los gastos ingresados.
+      mostrar promedio.
+      volver al menu.
+    2.2.3 salir
+      llamar a 3.
+      
+      
+3. cerrar programa
+  3.1 guardar datos ingresados al archivo.
+  3.2 cerrar archivo.
